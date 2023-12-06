@@ -1,7 +1,7 @@
 fire_Detection
 =============
-<img width="450px" height="300px" src="file:///C:/Users/kyh99/Downloads/fire_detection_gazebo.mp4"></img>
-
+<img width="450px" height="300px" src="https://github.com/KYH04444/fire_Detection/assets/121211187/501952cb-9856-4dad-9a84-fce54b328279"></img>
+<img width="450px" height="300px" src="[https://github.com/KYH04444/fire_Detection/assets/121211187/501952cb-9856-4dad-9a84-fce54b328279](https://github.com/KYH04444/fire_Detection/assets/121211187/501952cb-9856-4dad-9a84-fce54b328279)"></img>
 BUILD
 =============
 ```
