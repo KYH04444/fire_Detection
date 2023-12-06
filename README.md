@@ -41,11 +41,7 @@ How to RUN
 =============
 ```
 roslaunch mavros_off_board mavros_posix_sitl.launch
-```
-```
-roscd fire_detection
-```
-```
+
 python3 move.py
 ```
 
@@ -56,7 +52,9 @@ rostopic pub -1 /target_point fire_detection/TargetPoint "x: 5
 y: 5
 z: 5"
 ```
-
-  
+---
+REFERENCE
+---
+https://github.com/tomasz-lewicki/fire-detect-nn  
     
     
