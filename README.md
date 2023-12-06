@@ -1,6 +1,6 @@
 fire_Detection
 =============
-<img width="80%" src="file:///C:/Users/kyh99/Downloads/%EB%85%B9%EC%9D%8C-2023-12-06-103837.gif">
+<img width="450px" height="300px" src="file:///C:/Users/kyh99/Downloads/%EB%85%B9%EC%9D%8C-2023-12-06-103837.gif"></img>
 
 BUILD
 =============
