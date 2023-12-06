@@ -1,6 +1,6 @@
 fire_Detection
 =============
-
+<img width="80%" src="file:///C:/Users/kyh99/Desktop/%EB%85%B9%EC%9D%8C%202023-12-06%20103837.mp4">
 
 BUILD
 =============
